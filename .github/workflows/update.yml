@@ -1,6 +1,5 @@
 name: update-playlists
 
-
 on:
   schedule:
     - cron: "17 */3 * * *"
