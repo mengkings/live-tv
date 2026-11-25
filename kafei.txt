@@ -1,6 +1,11 @@
-智利杯 科其姆波 vs 拉卡莱拉联 [原声2·直播中],https://pul-tenm.gkykp.com/live/sd-1-4665513.m3u8?txSecret=231ff1af2fb520fa0de3a6221fbe5e92&txTime=6B0763C1
-巴西甲 沙佩科恩斯 vs 帕尔梅拉斯 [原声4·直播中],https://pul-tenm.gkykp.com/live/sd-1-4465907.m3u8?txSecret=7af64daba1361e3848bf4aef968d06bc&txTime=6B0763C1
-NCAA 宾州州立大学利伯克郡分校 vs 海军官校 [直播8·直播中],https://hello.ooo0ooo.top/live/3956786.m3u8
-巴西甲 沙佩科恩斯 vs 帕尔梅拉斯 [直播29·直播中],https://hello.ooo0ooo.top/live/4465907.m3u8
-NCAA 加州州立大学长滩分校 vs 阿肯色州立 [直播6·直播中],https://hello.ooo0ooo.top/live/3952659.m3u8
-智利杯 科其姆波 vs 拉卡莱拉联 [直播3·直播中],https://hello.ooo0ooo.top/live/4665513.m3u8
+NBA 独行侠 vs 掘金 [中文解说22·直播中],https://live01-cn-ali.xqnbu.com/live/16864836_tsc.m3u8
+NBA 独行侠 vs 掘金 [直播8·直播中],https://hello.ooo0ooo.top/live/3931498.m3u8
+NBA 独行侠 vs 掘金 [原声22·直播中],https://pul-tenm.gkykp.com/live/hd-en-2-3931498.m3u8?txSecret=607f5cd08f87eab086b605cd149fdf95&txTime=6B07C018
+NCAA 圣约翰大学 vs 俄勒冈大学 [直播24·直播中],https://hello.ooo0ooo.top/live/3949614.m3u8
+日职丙 北九州向日葵 vs 金泽共进 [直播1·直播中],https://hello.ooo0ooo.top/live/4556053.m3u8
+日职丙 北九州向日葵 vs 金泽共进 [原声2·直播中],https://pul-tenm.gkykp.com/live/sd-1-4556053.m3u8?txSecret=4883fdad49e96162c390919859f27079&txTime=6B07C018
+美职业 圣何塞地震 vs 休斯敦迪纳摩 [原声20·直播中],https://pul-tenm.gkykp.com/live/hd-en-1-4666484.m3u8?txSecret=14a85109fbee695695046070016c272c&txTime=6B07C018
+NCAA 阿拉巴马大学 vs 贝勒大学 [原声23·直播中],https://pul-tenm.gkykp.com/live/sd-2-3951992.m3u8?txSecret=17f45f7681c5e3375ec9538dfcc8889f&txTime=6B07C018
+美职业 圣何塞地震 vs 休斯敦迪纳摩 [直播3·直播中],https://hello.ooo0ooo.top/live/4666484.m3u8
+NCAA 弗吉尼亚联邦大学 vs 科罗拉多州立大学 [直播25·直播中],https://hello.ooo0ooo.top/live/3961531.m3u8
+NCAA 阿拉巴马大学 vs 贝勒大学 [直播23·直播中],https://hello.ooo0ooo.top/live/3951992.m3u8
