@@ -1,150 +1,86 @@
 #EXTM3U x-tvg-url=""
-# 咖啡直播 动态订阅 生成于 2026-11-25 15:55 共37路
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v232.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 丹麦U17 vs 阿根廷U17 [直播16·直播中]
+# 咖啡直播 动态订阅 生成于 2026-11-26 00:00 共21路
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg" group-title="咖啡直播·NBA",NBA 热火 vs 76人 [中文解说1·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4544854.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v227.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 澳大利亚U17 vs 莫桑比克U17 [直播17·直播中]
+https://live01-cn-ali.xqnbu.com/live/65173191_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v293.jpg" group-title="咖啡直播·NBA",NBA 热火 vs 76人 [直播5·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4544917.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v405.jpg" group-title="咖啡直播·沙特甲",沙特甲 乌拉 vs 哈萨正义 [原声4·直播中]
+https://hello.ooo0ooo.top/live/3931499.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v429.jpg" group-title="咖啡直播·NBA",NBA 热火 vs 76人 [原声1·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4602067.m3u8?txSecret=40f18d14500c952e070e67e37b7950a6&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/209-v384.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 丹麦U17 vs 阿根廷U17 [原声5·直播中]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931499.m3u8?txSecret=8ae7a2d22d00fab60a8db29221a7c90a&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v416.jpg" group-title="咖啡直播·巴西甲",巴西甲 米内罗竞技 vs 科林蒂安 [原声2·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4544854.m3u8?txSecret=1f2ce0bf564c2abc8bebc28fbd813fee&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v248.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 希腊U17 vs 卡塔尔U17 [直播9·直播中]
+https://pul-tenm.gkykp.com/live/sd-1-4465930.m3u8?txSecret=6248a9ec4d64d3b39f2d0daf2fc93d73&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/21-v194.jpg" group-title="咖啡直播·厄瓜甲",厄瓜甲 瓜亚基尔巴塞罗那 vs 山谷独立 [直播21·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4544856.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v242.jpg" group-title="咖啡直播·欧青联",欧青联 马德里竞技U19 vs 维京U19 [直播14·直播中]
+https://hello.ooo0ooo.top/live/4646938.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v233.jpg" group-title="咖啡直播·NCAA",NCAA 加州州立北岭分校 vs 韦伯州立大学 [直播15·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4638847.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/33-v140.jpg" group-title="咖啡直播·葡U23",葡U23 法马利康U23 vs 吉维森特U23 [直播33·直播中]
+https://hello.ooo0ooo.top/live/3949645.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v264.jpg" group-title="咖啡直播·巴西甲",巴西甲 米内罗竞技 vs 科林蒂安 [直播2·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4609533.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/229-v186.jpg" group-title="咖啡直播·欧青联",欧青联 巴黎圣日耳曼U19 vs 罗马U19 [原声25·直播中]
+https://hello.ooo0ooo.top/live/4465930.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/216-v302.jpg" group-title="咖啡直播·阿甲",阿甲 博卡青年 vs 门多萨独立 [原声12·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4638851.m3u8?txSecret=e55f3ebc53cba5ea1992df5e2b4cd08e&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/228-v192.jpg" group-title="咖啡直播·欧青联",欧青联 马德里竞技U19 vs 维京U19 [原声24·直播中]
+https://pul-tenm.gkykp.com/live/sd-1-4667161.m3u8?txSecret=c2eb0e611679b5f5516a028ff08f28f0&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/219-v267.jpg" group-title="咖啡直播·NCAA",NCAA 加州州立北岭分校 vs 韦伯州立大学 [原声15·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4638847.m3u8?txSecret=5dd4c802550f5f475243de416fa2c619&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/226-v205.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 巴拿马U17 vs 埃及U17 [原声22·直播中]
+https://pul-tenm.gkykp.com/live/sd-2-3949645.m3u8?txSecret=9704e93745468aedd31906d95eb54af4&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v407.jpg" group-title="咖啡直播·哥伦甲",哥伦甲 圣塔菲 vs 云斯卡尔达斯 [原声4·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4544869.m3u8?txSecret=c4145203481d5a8444b3d276c12d0ddb&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/234-v149.jpg" group-title="咖啡直播·葡U23",葡U23 法马利康U23 vs 吉维森特U23 [原声30·直播中]
+https://pul-tenm.gkykp.com/live/sd-1-4669931.m3u8?txSecret=004ae0ba891c93588bea762282c0e109&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v278.jpg" group-title="咖啡直播·NBA",NBA 公牛 vs 黄蜂 [直播6·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4609533.m3u8?txSecret=5ff0d96ac5b7f45c6c4ac055c7139374&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/227-v195.jpg" group-title="咖啡直播·埃及超",埃及超 杰艾斯 vs 现代体育 [原声23·直播中]
+https://hello.ooo0ooo.top/live/3931500.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v253.jpg" group-title="咖啡直播·玻利杯",玻利杯 皇家波托斯 vs 拉巴斯准备 [直播12·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4614743.m3u8?txSecret=b4a6398b37979466d1c91f50fe9aa3a6&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v245.jpg" group-title="咖啡直播·埃及超",埃及超 杰艾斯 vs 现代体育 [直播13·直播中]
+https://hello.ooo0ooo.top/live/4669962.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v285.jpg" group-title="咖啡直播·阿甲",阿甲 博卡青年 vs 门多萨独立 [直播1·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4614743.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/30-v158.jpg" group-title="咖啡直播·俄杯",俄杯 马哈奇卡拉 vs 波罗的海 [直播30·直播中]
+https://hello.ooo0ooo.top/live/4667161.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v234.jpg" group-title="咖啡直播·NCAA",NCAA 杨百翰大学 vs 普罗维登斯学院 [直播16·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4566124.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/225-v208.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 希腊U17 vs 卡塔尔U17 [原声21·直播中]
+https://hello.ooo0ooo.top/live/3961573.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/207-v369.jpg" group-title="咖啡直播·玻利杯",玻利杯 皇家波托斯 vs 拉巴斯准备 [原声3·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4544856.m3u8?txSecret=1d05c8007a4a395491ccc769ec3e4fcc&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/230-v178.jpg" group-title="咖啡直播·俄杯",俄杯 格罗兹尼 vs 克拉斯诺达尔 [原声26·直播中]
+https://pul-tenm.gkykp.com/live/sd-1-4669962.m3u8?txSecret=89b2018bfa9433db70403efe8408263b&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v305.jpg" group-title="咖啡直播·哥伦甲",哥伦甲 圣塔菲 vs 云斯卡尔达斯 [直播3·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4566123.m3u8?txSecret=21edf10dc5d38f05201f97ed420037c9&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v231.jpg" group-title="咖啡直播·欧青联",欧青联 巴黎圣日耳曼U19 vs 罗马U19 [直播15·直播中]
+https://hello.ooo0ooo.top/live/4669931.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/210-v349.jpg" group-title="咖啡直播·厄瓜甲",厄瓜甲 瓜亚基尔巴塞罗那 vs 山谷独立 [原声6·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4638851.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v216.jpg" group-title="咖啡直播·俄杯",俄杯 格罗兹尼 vs 克拉斯诺达尔 [直播18·直播中]
+https://pul-tenm.gkykp.com/live/sd-1-4646938.m3u8?txSecret=d8fa02f4e1645f6786bcbc42b46da3f8&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v290.jpg" group-title="咖啡直播·NBA",NBA 公牛 vs 黄蜂 [原声13·直播中]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4566123.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/32-v155.jpg" group-title="咖啡直播·格鲁甲",格鲁甲 鲁斯塔维 vs 梅夏特堤基布利 [直播32·直播中]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931500.m3u8?txSecret=94ff2d42c657ec18fc236f107906cd8a&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/213-v326.jpg" group-title="咖啡直播·自由直播",原声9 [原声9·未开赛]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4479639.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/34-v137.jpg" group-title="咖啡直播·沙特甲",沙特甲 乌拉 vs 哈萨正义 [直播34·直播中]
+https://pul-tenm.gkykp.com/live/sd-2-3953090.m3u8?txSecret=31a63a4ae711768abbb26166481aafc1&txTime=6B08C788
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v247.jpg" group-title="咖啡直播·自由直播",直播13 [直播13·未开赛]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4602067.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/44-v109.jpg" group-title="咖啡直播·斯亚杯",斯亚杯 塔博塞扎纳 vs 福兹纳 [直播44·直播中]
+https://hello.ooo0ooo.top/live/3953090.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v244.jpg" group-title="咖啡直播·自由直播",直播14 [直播14·未开赛]
 #EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4667827.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v259.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 巴拿马U17 vs 埃及U17 [直播10·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4544869.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/233-v158.jpg" group-title="咖啡直播·格鲁甲",格鲁甲 鲁斯塔维 vs 梅夏特堤基布利 [原声29·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4479639.m3u8?txSecret=dbb553fbc393aa97f23678985bcac6a4&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/232-v167.jpg" group-title="咖啡直播·葡U23",葡U23 摩里伦斯U23 vs 佩纳菲耶尔U23 [原声28·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4609725.m3u8?txSecret=c5ed7eac5a834a02676e4e2550c96e82&txTime=6B0855A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v276.jpg" group-title="咖啡直播·欧青联",欧青联 布鲁日U19 vs 利物浦U19 [直播6·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4638848.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/222-v233.jpg" group-title="咖啡直播·欧青联",欧青联 布鲁日U19 vs 利物浦U19 [原声18·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4638848.m3u8?txSecret=dc45af5e52f383b6573ed35342a9d9f7&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/210-v346.jpg" group-title="咖啡直播·U17世界杯",U17世界杯 澳大利亚U17 vs 莫桑比克U17 [原声6·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4544917.m3u8?txSecret=ecbdecf463d185932b71283af9147f6d&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/231-v173.jpg" group-title="咖啡直播·俄杯",俄杯 马哈奇卡拉 vs 波罗的海 [原声27·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/sd-1-4566124.m3u8?txSecret=4fd6c21831087c9d4f48917d1cbcf33c&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/31-v150.jpg" group-title="咖啡直播·葡U23",葡U23 摩里伦斯U23 vs 佩纳菲耶尔U23 [直播31·直播中]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4609725.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/21-v192.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 科威特竞技 vs 阿布扎比统一 [直播21·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4621305.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v262.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 阿尔费萨里安曼 vs 赖扬 [直播2·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4621332.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v200.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 阿布扎比半岛 vs 高尔高赫 [直播20·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4621311.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/213-v324.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 科威特竞技 vs 阿布扎比统一 [原声9·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/hd-en-1-4621305.m3u8?txSecret=0f1885b5b39a4ce880cb5ef3d65518ab&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v288.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 阿尔费萨里安曼 vs 赖扬 [原声13·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/hd-en-1-4621332.m3u8?txSecret=c95fb1e0283be6816f5ccca5c1d3250b&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v204.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 穆哈拉格 vs 阿卡达格 [直播19·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://hello.ooo0ooo.top/live/4621321.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/216-v300.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 穆哈拉格 vs 阿卡达格 [原声12·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/hd-en-1-4621321.m3u8?txSecret=9f207c33d700dccb21a2bb3ebe041b11&txTime=6B085618
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/214-v297.jpg" group-title="咖啡直播·亚冠二级",亚冠二级 阿布扎比半岛 vs 高尔高赫 [原声10·未开赛]
-#EXTVLCOPT:http-referrer=https://kafeizhibo.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://pul-tenm.gkykp.com/live/hd-en-1-4621311.m3u8?txSecret=dfaff36d172d8c5e35380ae49671f004&txTime=6B085618
+https://hello.ooo0ooo.top/live/3951668.m3u8
